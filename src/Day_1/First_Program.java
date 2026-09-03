@@ -7,7 +7,7 @@ public class First_Program {
         System.out.println("Simple Calculator");
         System.out.print("Enter the A value : ");
         int a=sc.nextInt();
-        System.out.print("Enter the B value : ");
+        System.out.print  ("Enter the B value : ");
         int b=sc.nextInt();
 
         int sum = (a+b);
