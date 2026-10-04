@@ -5,7 +5,7 @@ public class Arrays {
         String [] arr  = new String[6];
         arr[0]="apple";
         arr[1]="ball";
-        arr[5]="clog";
+        arr[5]="log";
 
         System.out.println(arr[0]);
 
