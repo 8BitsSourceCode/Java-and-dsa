@@ -33,4 +33,6 @@ public class NegativeNumber {
             } else {
                 System.out.println("Invalid marks");
             }
+
+
 }}
