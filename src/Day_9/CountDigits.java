@@ -11,5 +11,7 @@ public class CountDigits {
             num /= 10;
         }
         System.out.println("Number of Digits : "+count);
+
     }
+
 }
