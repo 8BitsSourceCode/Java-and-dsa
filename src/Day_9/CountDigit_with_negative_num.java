@@ -16,5 +16,22 @@ public class CountDigit_with_negative_num {
             }
         }
         System.out.println(count);
+
+
+        // best one for long numbers
+        int num1 = -123;
+        long n = Math.abs((long) num1);
+        int count1 = 0;
+
+        if (n == 0) {
+            count1 = 1;
+        } else {
+            while (n != 0) {
+                count1++;
+                n /= 10;
+            }
+        }
+
+        System.out.println("Number of digits = " + count1);
     }
 }
