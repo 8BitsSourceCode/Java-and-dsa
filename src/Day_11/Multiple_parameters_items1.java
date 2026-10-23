@@ -5,7 +5,9 @@ public class Multiple_parameters_items1 {
         double total = price * quantity;
         System.out.println("Total : $ "+total);
 
-    }
+    }//Same method, different data.
+    //That’s reusability.
+
     public static void main(String[]args){
         calculateTotal(50000,3);
         calculateTotal(4500, 2);
