@@ -1,6 +1,9 @@
 package Day_12;
 
 public class Methods_arguments {
+
+//    Parameters vs arguments — very important for interviews
+
     static int add(int a, int b) {  // a and b are parameters
         return a + b;
     }
