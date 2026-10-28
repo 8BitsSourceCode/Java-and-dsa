@@ -12,5 +12,5 @@ public class returning_method {
 //    int total = add(10, 20) + 50;
 //    Because the method gives us a value.
 //    If the method only printed:
-    static void add(int a, int b)
+//    static void add(int a, int b)
 }
