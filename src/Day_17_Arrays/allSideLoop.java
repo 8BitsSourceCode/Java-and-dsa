@@ -1,4 +1,4 @@
-package Day_17;
+package Day_17_Arrays;
 
 public class allSideLoop {
     public static void main(String[]args){
