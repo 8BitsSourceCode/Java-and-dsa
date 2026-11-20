@@ -6,5 +6,15 @@ public class stringsInJava {
         char letter = 'A';
         System.out.println(name);
         System.out.println(letter);
+
+        System.out.println(name.length());
+
+//        For arrays:
+//        numbers.length
+//        For Strings:
+//        name.length()
+//        Notice the difference:
+//        Array   → length
+//        String  → length()
     }
 }
