@@ -5,6 +5,12 @@ public class comparingStringWhyNot {
         String username = "admin";
         String input = "admin";
 
+        //wrong
+        if(username == input){
+            System.out.println("correct user name ");
+        }
+        // correct
+
         if (username.equals(input)){
             System.out.println("User name is correct ");
         }else{
