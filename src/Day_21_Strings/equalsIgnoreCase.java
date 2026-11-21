@@ -9,7 +9,7 @@ public class equalsIgnoreCase {
         System.out.println(a.equalsIgnoreCase(b));
 
         //a.equalsIgnoreCase(b)
-        Output:
+ //       Output:
 //        true
 //        Because it ignores case.
 //        Compare:
