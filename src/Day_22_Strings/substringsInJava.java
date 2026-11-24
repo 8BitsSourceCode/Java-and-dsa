@@ -1,4 +1,4 @@
-package Day_22;
+package Day_22_Strings;
 
 public class substringsInJava {
     public static void main(String[]args){
