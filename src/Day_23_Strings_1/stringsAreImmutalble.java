@@ -17,5 +17,15 @@ public class stringsAreImmutalble {
         String result = name.toUpperCase();
         System.out.println(result);
 
+        //  Imagine a printed document.
+        //You can’t change the letters physically on the same printed sheet.
+        //Instead:
+        //Original document
+        //↓
+        //Make a new version
+        //↓
+        //Modified document
+        //Strings behave similarly
+
     }
 }
